@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm currently studying in Madan Mohan Malaviya University of Technology Gorakhpur
 <br>
 <ul>
-<li>My skills included front end development (I created a portfolio from scratch), C++ (Don't ask me about pointers).</li>
+<li>My skills included HTML,CSS,JAVA SCRIPT (I created a portfolio from scratch), C++.</li>
   <li>I’m currently learning data structures and algorithms.</li>
   <li>I'm looking to collaborate on open source and web development projects.</li>
 <li>Hobbies : Book reading , sketching , surfing on youtube.</li>
