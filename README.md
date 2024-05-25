@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...graphic design (I'm certified)
 - ⚡ Fun fact: ...
 -->
-I'm currently studying in Madan Mohan Malaviya University of Technology Gorakhpur
+I'm currently learning full-stack development
 <br>
 <ul>
 <li>My skills included C++, C, HTML5, CSS3, JavaScript, Python(basic).</li>
   <li>Currently learning new technologies and algorithms.</li>
-<li>Hobbies : Book reading , sketching , surfing on youtube.</li>
-  <li>Fun fact : Tea is all I need to get up & Coffee is all I need to get going.</li></ul>
+<li>Hobbies: Book reading, sketching, surfing on YouTube.</li>
+  <li>Fun fact: Tea is all I need to get up & Coffee is all I need to get going.</li></ul>
