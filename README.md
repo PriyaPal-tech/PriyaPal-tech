@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm currently learning full-stack development
 <br>
 <ul>
-<li>My skills included C++, C, HTML5, CSS3, JavaScript, Python(basic).</li>
+<li>My skills include ReactJS, Typescript, JavaScript, HTML5, CSS, C++, C, Python.</li>
   <li>Currently learning new technologies and algorithms.</li>
 <li>Hobbies: Book reading, sketching, surfing on YouTube.</li>
   <li>Fun fact: Tea is all I need to get up & Coffee is all I need to get going.</li></ul>
